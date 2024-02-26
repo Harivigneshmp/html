@@ -1,0 +1,125 @@
+body {
+    background-color: #00A0DC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Logo1 {
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    font-size: 30px;
+    display: inline-block;
+    color: white;   
+    padding: 0px;
+    margin-top: 10px;
+}
+.In {
+    color: #00A0DC;
+    background-color: white;
+    border-radius: 3px;
+    margin-left: 2px;
+    padding: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.trademark {
+    font-size: x-small;
+    margin-top: 30px;
+    margin-left: 2px;
+}
+.Make {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    position: relative;
+    bottom: 30px;
+}
+.whitebox {
+    position: relative;
+    left: 37%;
+    background-color: #e0e3e5;
+    width: 400px;
+    border-radius: 3px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 23px;
+    padding-right: 23px;
+    font-size: medium;
+    color: #86888A;
+}
+input {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: #CAAACA;
+}
+p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #313335;
+}
+.policy {
+    color: #86888A;
+    margin-top: 0px;
+    font-size: medium;
+}
+.join {
+    display: flex;
+    justify-content: center;
+}
+.continue {
+    display: flex;
+    justify-content: center;
+}
+.Join {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    background-image: linear-gradient(#00A0DC,#8D6CAB);
+    border-radius: 3px;
+    border-style: none;
+    width: 356px;
+    height: 30px;
+}
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.Continue {
+    color: white;
+    background-color: #385e90;
+    border-radius: 3px;
+    border-style: none;
+    width: 356px;
+    height: 30px;
+    font-size: large;
+}
+.facebooklogo {
+    position: absolute;
+    left: 30px;
+    bottom: 56px;
+}
+.logo2 {
+    width: 22px;
+}
+.already {
+    font-size: large;
+    padding-bottom: 20px;
+}
+.a2 {
+    color: #00A0DC;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
